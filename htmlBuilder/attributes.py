@@ -1,4 +1,3 @@
-# Attributes docstrings pulled from https://www.w3schools.com/tags/ref_attributes.asp
 
 class HtmlTagAttribute:
     belongs_to: list = None
